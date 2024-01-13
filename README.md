@@ -28,6 +28,7 @@ To make the API work, these are the core features of the Market:
 * [Python](https://www.python.org/)
 * [Docker Container](https://www.docker.com/)
 * [gRPC](https://grpc.io/)
+* [mongodb](https://www.mongodb.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
