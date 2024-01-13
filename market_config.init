@@ -1,0 +1,14 @@
+[DBINFO]
+str = 
+dbname = comsolve
+matches_collection = matches
+transactions_collection = transactions
+prices_collection = prices
+
+[METERSMICROSERVICE]
+host = meters
+port = 5049
+
+[PRICES]
+buy = 0.1624
+sell = 0.03

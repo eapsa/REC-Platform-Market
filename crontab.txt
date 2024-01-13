@@ -1,0 +1,1 @@
+5,20,35,50 * * * * python3 /market-microservice/matches/main.py >> /var/log/cront_log.log
